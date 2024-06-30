@@ -8,5 +8,15 @@ authors:
 bibliography: references.bib
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+## 2022年浙江大学数学分析考研真题
+### 计算题
+
+$$
+(1)  \lim_{x \to 0}\frac{(l+\sin^2{x})^{2022}-\cos^{2022}{x}}{\ln(1+x^2)}
+$$
+
+这道题我们先来看当 $\displaystyle x \rightarrow 0$ 时：
+
+- $\displaystyle \sin^{2}x \approx x^2$
+- $\displaystyle \cos x \approx 1 - \frac{x^2}{2}$
+- $$
